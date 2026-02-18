@@ -2,7 +2,7 @@
 
 ## ABOUT ME
 
-I am ruthramoorthy
+I am prabakaran
 from the class of **3rd year cse** and today we started to learn about **MERN STACK** on the first day, sir gave the intro about the basics of web development and the core concept of the MERN STACK
 
 ## OBJECTIVE
@@ -36,3 +36,4 @@ Day6: Advanced Javascript
 Day7: React Basics
 
 Day8: React State & Hook
+
