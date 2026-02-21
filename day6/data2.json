@@ -1,0 +1,104 @@
+{
+  "projectIdeas": [
+    {
+      "id": 1,
+      "title": "AI Study Planner",
+      "category": "Education",
+      "difficulty": "Intermediate",
+      "description": "Generates personalized study schedules based on subjects, goals, and deadlines.",
+      "features": [
+        "User authentication",
+        "Deadline-based planning",
+        "Progress tracking",
+        "Email reminders",
+        "Dashboard analytics"
+      ],
+      "techStack": {
+        "frontend": ["React"],
+        "backend": ["Node.js", "Express"],
+        "database": "MongoDB"
+      },
+      "estimatedDurationWeeks": 4
+    },
+    {
+      "id": 2,
+      "title": "Personal Finance Tracker",
+      "category": "Finance",
+      "difficulty": "Beginner",
+      "description": "Tracks income, expenses, and savings goals with simple analytics.",
+      "features": [
+        "Expense categorization",
+        "Monthly reports",
+        "Data visualization",
+        "Budget alerts",
+        "CSV export"
+      ],
+      "techStack": {
+        "frontend": ["Vue.js"],
+        "backend": ["Firebase"],
+        "database": "Firestore"
+      },
+      "estimatedDurationWeeks": 3
+    },
+    {
+      "id": 3,
+      "title": "Real-Time Chat App",
+      "category": "Communication",
+      "difficulty": "Advanced",
+      "description": "A messaging platform with private chat rooms and live notifications.",
+      "features": [
+        "WebSocket integration",
+        "Private rooms",
+        "File sharing",
+        "Typing indicators",
+        "Online status tracking"
+      ],
+      "techStack": {
+        "frontend": ["Next.js"],
+        "backend": ["Node.js", "Socket.io"],
+        "database": "PostgreSQL"
+      },
+      "estimatedDurationWeeks": 6
+    },
+    {
+      "id": 4,
+      "title": "Task Management System",
+      "category": "Productivity",
+      "difficulty": "Intermediate",
+      "description": "A Kanban-style task manager for teams and individuals.",
+      "features": [
+        "Drag-and-drop boards",
+        "Task deadlines",
+        "User roles & permissions",
+        "Activity logs",
+        "Team collaboration"
+      ],
+      "techStack": {
+        "frontend": ["Angular"],
+        "backend": ["Spring Boot"],
+        "database": "MySQL"
+      },
+      "estimatedDurationWeeks": 5
+    },
+    {
+      "id": 5,
+      "title": "E-Commerce API",
+      "category": "E-Commerce",
+      "difficulty": "Advanced",
+      "description": "RESTful API for managing products, users, orders, and payments.",
+      "features": [
+        "JWT authentication",
+        "Product CRUD operations",
+        "Order management",
+        "Payment gateway integration",
+        "Admin dashboard"
+      ],
+      "techStack": {
+        "backend": ["Django REST Framework"],
+        "database": "PostgreSQL",
+        "deployment": ["Docker"]
+      },
+      "estimatedDurationWeeks": 6
+    }
+  ]
+}
